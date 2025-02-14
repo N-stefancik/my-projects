@@ -1,1 +1,3 @@
-
+This project was done for CSC 172 at the University of Rochester, "Data Structures and Algorithms". It uses Djikstras algorithm also known as uniform cost search to find the shortest path between two specified nodes in a graph. The path cost is the haversine distance between two coordinates. We were expected to do this with 3 datasets; UR.txt, MONROE.txt, NYS.txt for the school, county, and state respectively. This algorithm is run through the command line with the command java StreetMap ---.txt --show --directions. 
+In order to use these files you must clone the repository and extract the files from there. 
+Currently the 3 .txt files used for the project are not in the folder. 
