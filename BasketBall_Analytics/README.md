@@ -1,1 +1,1 @@
-
+This project is pretty well documented in the actual notebook, as it is a notebook. I'll just give a breif overview of the goal of the project. The end goal was to visualize shot patterns and predict whether or not a given shot would go in. I used data from the nba_api from the 2023-24 NBA regular season and used ML classification models to achieve this. Then I analyzed the data and found which models were better and looked at the metrics of accuracy they had. This was an interesting project that applied some ML concepts that I learned in a cool discipline.
